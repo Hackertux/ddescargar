@@ -1,0 +1,12 @@
+pip install scapy
+
+
+
+
+
+
+
+
+
+
+sudo python3 network_monitor_gui.py
